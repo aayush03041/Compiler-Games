@@ -1,2 +1,1 @@
-
-Can run on any C++ compiler
+You can run on any C++ compiler
